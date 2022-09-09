@@ -3,6 +3,7 @@ public class RomanoGenerator
 {
     private Dictionary<int, string> romanos = new Dictionary<int, string>()
     {
+        //...
         //añadir el 1000
         { 1000, "M"},
         { 500, "D" },
@@ -22,7 +23,7 @@ public class RomanoGenerator
     {
         if (number <= 0)
             return "error";
-        if (number >= 1000)
+        if (number > 1000)
             return "numero mayor a mil";
         var romano = "";
             while (number > 0)

@@ -1,5 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=433c6807_002D2bd7_002D478a_002D899e_002D11b0b647ef42/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PruebaValidacion_1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=433c6807_002D2bd7_002D478a_002D899e_002D11b0b647ef42/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PruebaValidacion_1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::A2FD2CC6-9B29-4B40-8BF7-B9D61CD96BE6::net6.0::TestCalidadT1.PUnumeros.PruebaValidacion_1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::A2FD2CC6-9B29-4B40-8BF7-B9D61CD96BE6::net6.0::TestCalidadT1.PUnumeros.PruebaValidacion_2&lt;/TestId&gt;&#xD;
@@ -27,6 +27,11 @@
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7aea70fd_002Dcb9c_002D4dad_002Dbcfe_002D89ba54ac6ec3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PruebaValidacion_5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::A2FD2CC6-9B29-4B40-8BF7-B9D61CD96BE6::net6.0::TestCalidadT1.PUnumeros.PruebaValidacion_5&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2FD2CC6-9B29-4B40-8BF7-B9D61CD96BE6::net6.0::TestCalidadT1.PUnumeros&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=96b5632c_002D3fc8_002D4619_002Da022_002D53847e6c36c2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PruebaValidacion_25" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A2FD2CC6-9B29-4B40-8BF7-B9D61CD96BE6::net6.0::TestCalidadT1.PUnumeros.PruebaValidacion_25&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

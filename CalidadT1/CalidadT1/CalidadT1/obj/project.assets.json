@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Brand\\Documents\\CalidadT1\\CalidadT1\\CalidadT1\\CalidadT1.csproj",
+      "projectUniqueName": "C:\\Users\\Brand\\Documents\\CalidadYPruebasDeSoftware\\CalidadT1\\CalidadT1\\CalidadT1\\CalidadT1.csproj",
       "projectName": "CalidadT1",
-      "projectPath": "C:\\Users\\Brand\\Documents\\CalidadT1\\CalidadT1\\CalidadT1\\CalidadT1.csproj",
+      "projectPath": "C:\\Users\\Brand\\Documents\\CalidadYPruebasDeSoftware\\CalidadT1\\CalidadT1\\CalidadT1\\CalidadT1.csproj",
       "packagesPath": "C:\\Users\\Brand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Brand\\Documents\\CalidadT1\\CalidadT1\\CalidadT1\\obj\\",
+      "outputPath": "C:\\Users\\Brand\\Documents\\CalidadYPruebasDeSoftware\\CalidadT1\\CalidadT1\\CalidadT1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Brand\\AppData\\Roaming\\NuGet\\NuGet.Config",

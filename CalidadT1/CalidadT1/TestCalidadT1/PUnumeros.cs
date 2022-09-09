@@ -1,9 +1,7 @@
 ﻿using CalidadT1;
-
 namespace TestCalidadT1;
 public class PUnumeros
 {
-
     [Test]
     public void PruebaValidacion_1()
     {
@@ -30,7 +28,7 @@ public class PUnumeros
     {
         var numerosRomanos = new RomanoGenerator();
         var validar = numerosRomanos.GetRomano(674);
-        Assert.AreEqual("DCCL", validar);
+        Assert.AreEqual("DCLXXIV", validar);
         
     }
     [Test]
@@ -38,7 +36,7 @@ public class PUnumeros
     {
         var numerosRomanos = new RomanoGenerator();
         var validar = numerosRomanos.GetRomano(346);
-        Assert.AreEqual("CCCXXXXVI", validar);
+        Assert.AreEqual("CCCXLVI", validar);
         
     }
     [Test]
@@ -77,7 +75,7 @@ public class PUnumeros
         //XCV
         var numerosRomanos = new RomanoGenerator();
         var validar = numerosRomanos.GetRomano(95);
-        Assert.AreEqual("LXXXXV", validar);
+        Assert.AreEqual("LXLV", validar);
     }
    
     [Test]
@@ -87,7 +85,7 @@ public class PUnumeros
         //CCXXXIV
         var numerosRomanos = new RomanoGenerator();
         var validar = numerosRomanos.GetRomano(234);
-        Assert.AreEqual("CCXXXIIII", validar);
+        Assert.AreEqual("CCXXXIV", validar);
         
     }
     [Test]
@@ -168,7 +166,7 @@ public class PUnumeros
     public void PruebaValidacion_22()
     {
         var numerosRomanos = new RomanoGenerator();
-        var validar = numerosRomanos.GetRomano(4);
+        var validar = numerosRomanos.GetRomano(4); 
         Assert.AreEqual("IV", validar);
     }
     [Test]
@@ -177,5 +175,19 @@ public class PUnumeros
         var numerosRomanos = new RomanoGenerator();
         var validar = numerosRomanos.GetRomano(10);
         Assert.AreEqual("X", validar);
+    }
+    [Test]
+    public void PruebaValidacion_24()
+    {
+        var numerosRomanos = new RomanoGenerator();
+        var validar = numerosRomanos.GetRomano(8);
+        Assert.AreEqual("VIII", validar);
+    }
+    [Test]
+    public void PruebaValidacion_25()
+    {
+        var numerosRomanos = new RomanoGenerator();
+        var validar = numerosRomanos.GetRomano(18);
+        Assert.AreEqual("XVIII", validar);
     }
 }
