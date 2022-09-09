@@ -1,0 +1,15 @@
+C:\Users\Brand\Documents\CalidadYPruebasDeSoftware\ExamenT1\ExamenT1\bin\Debug\net6.0\ExamenT1.exe
+C:\Users\Brand\Documents\CalidadYPruebasDeSoftware\ExamenT1\ExamenT1\bin\Debug\net6.0\ExamenT1.deps.json
+C:\Users\Brand\Documents\CalidadYPruebasDeSoftware\ExamenT1\ExamenT1\bin\Debug\net6.0\ExamenT1.runtimeconfig.json
+C:\Users\Brand\Documents\CalidadYPruebasDeSoftware\ExamenT1\ExamenT1\bin\Debug\net6.0\ExamenT1.dll
+C:\Users\Brand\Documents\CalidadYPruebasDeSoftware\ExamenT1\ExamenT1\bin\Debug\net6.0\ExamenT1.pdb
+C:\Users\Brand\Documents\CalidadYPruebasDeSoftware\ExamenT1\ExamenT1\obj\Debug\net6.0\ExamenT1.csproj.AssemblyReference.cache
+C:\Users\Brand\Documents\CalidadYPruebasDeSoftware\ExamenT1\ExamenT1\obj\Debug\net6.0\ExamenT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brand\Documents\CalidadYPruebasDeSoftware\ExamenT1\ExamenT1\obj\Debug\net6.0\ExamenT1.AssemblyInfoInputs.cache
+C:\Users\Brand\Documents\CalidadYPruebasDeSoftware\ExamenT1\ExamenT1\obj\Debug\net6.0\ExamenT1.AssemblyInfo.cs
+C:\Users\Brand\Documents\CalidadYPruebasDeSoftware\ExamenT1\ExamenT1\obj\Debug\net6.0\ExamenT1.csproj.CoreCompileInputs.cache
+C:\Users\Brand\Documents\CalidadYPruebasDeSoftware\ExamenT1\ExamenT1\obj\Debug\net6.0\ExamenT1.dll
+C:\Users\Brand\Documents\CalidadYPruebasDeSoftware\ExamenT1\ExamenT1\obj\Debug\net6.0\refint\ExamenT1.dll
+C:\Users\Brand\Documents\CalidadYPruebasDeSoftware\ExamenT1\ExamenT1\obj\Debug\net6.0\ExamenT1.pdb
+C:\Users\Brand\Documents\CalidadYPruebasDeSoftware\ExamenT1\ExamenT1\obj\Debug\net6.0\ExamenT1.genruntimeconfig.cache
+C:\Users\Brand\Documents\CalidadYPruebasDeSoftware\ExamenT1\ExamenT1\obj\Debug\net6.0\ref\ExamenT1.dll
