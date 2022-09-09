@@ -1,0 +1,15 @@
+C:\Users\Brand\Documents\CalidadT1\CalidadT1\CalidadT1\bin\Debug\net6.0\CalidadT1.exe
+C:\Users\Brand\Documents\CalidadT1\CalidadT1\CalidadT1\bin\Debug\net6.0\CalidadT1.deps.json
+C:\Users\Brand\Documents\CalidadT1\CalidadT1\CalidadT1\bin\Debug\net6.0\CalidadT1.runtimeconfig.json
+C:\Users\Brand\Documents\CalidadT1\CalidadT1\CalidadT1\bin\Debug\net6.0\CalidadT1.dll
+C:\Users\Brand\Documents\CalidadT1\CalidadT1\CalidadT1\bin\Debug\net6.0\CalidadT1.pdb
+C:\Users\Brand\Documents\CalidadT1\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.csproj.AssemblyReference.cache
+C:\Users\Brand\Documents\CalidadT1\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brand\Documents\CalidadT1\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.AssemblyInfoInputs.cache
+C:\Users\Brand\Documents\CalidadT1\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.AssemblyInfo.cs
+C:\Users\Brand\Documents\CalidadT1\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.csproj.CoreCompileInputs.cache
+C:\Users\Brand\Documents\CalidadT1\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.dll
+C:\Users\Brand\Documents\CalidadT1\CalidadT1\CalidadT1\obj\Debug\net6.0\refint\CalidadT1.dll
+C:\Users\Brand\Documents\CalidadT1\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.pdb
+C:\Users\Brand\Documents\CalidadT1\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.genruntimeconfig.cache
+C:\Users\Brand\Documents\CalidadT1\CalidadT1\CalidadT1\obj\Debug\net6.0\ref\CalidadT1.dll
